@@ -1,0 +1,316 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+.container{
+    max-width: 1000px;
+   margin: 0 auto;
+}
+body {
+    background-color: rgb(67, 63, 63);
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px auto;
+    justify-content: space-between;
+}
+
+.icon{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color: hsl(240, 100%, 50%);
+    margin: 20px;
+    transition: 1s;
+}
+
+.icon:hover{
+    background-color: hsl(240, 100%, 50%);
+    color: white;
+}
+.iconn{
+
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color: hsl(0, 0%, 0%);
+    margin: 20px;
+    transition: 1s; 
+}
+.iconn:hover{
+    background-color: hsl(0, 0%, 0%);
+    color: white;
+}
+.tve{
+
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color: hsl(242, 91%, 29%);
+    margin: 20px;
+    transition: 1s; 
+}
+.tve:hover{
+    background-color: hsl(242, 91%, 29%);
+    color: white;
+}
+.in{
+    
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color:  hsl(56, 100%, 51%);
+    margin: 20px;
+    transition: 1s; 
+}
+.in:hover{
+    background-color: hsl(56, 100%, 51%);
+    color: white;
+}
+.yutb{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color:  hsl(0, 100%, 51%);
+    margin: 20px;
+    transition: 1s;
+}
+.yutb:hover{
+    background-color:hsl(0, 100%, 51%) ;
+    color: white;
+}
+.ins{
+
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color:  hsl(301, 100%, 51%);
+    margin: 20px;
+    transition: 1s;
+}
+.ins:hover{
+
+    background-color:hsl(301, 100%, 51%) ;
+    color: white;
+}
+.tik{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color:  hsl(196,100%,2%);
+    margin: 20px;
+    transition: 1s;
+}
+.tik:hover{
+    background-color:hsl(196, 100%, 2%) ;
+    color: white;
+}
+.way{
+
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color:  hsl(188, 100%, 50%);
+    margin: 20px;
+    transition: 1s; 
+}
+.way:hover{
+    background-color:hsl(188, 100%, 50%) ;
+    color: white;
+}
+.muz{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color:  hsl(335, 100%, 50%);
+    margin: 20px;
+    transition: 1s; 
+}
+.muz:hover{
+    background-color:hsl(335, 100%, 50%) ;
+    color: white;
+}
+.goog{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color:  hsl(26, 100%, 50%);
+    margin: 20px;
+    transition: 1s; 
+}
+.goog:hover{
+    background-color:hsl(26, 100%, 50%) ;
+    color: white;
+}
+.fig{
+
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color:  hsl(129, 100%, 50%);
+    margin: 20px;
+    transition: 1s; 
+}
+
+.fig:hover{
+
+    background-color:hsl(129, 100%, 50%) ;
+    color: white;
+}
+.sna{
+
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color:  hsl(68, 95%, 50%);
+    margin: 20px;
+    transition: 1s; 
+}
+.sna:hover{
+    background-color:hsl(68, 95%, 50%) ;
+    color: white;
+}
+.p{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color: hsl(0, 95%, 50%);
+    margin: 20px;
+    transition: 1s; 
+}
+
+.p:hover{
+    background-color:hsl(0, 95%, 50%) ;
+    color: white;
+}
+.and{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color: hsl(117, 95%, 50%);
+    margin: 20px;
+    transition: 1s; 
+
+}
+
+.and:hover{
+    background-color:hsl(117, 95%, 50%) ;
+    color: white;
+}
+.y{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color: hsl(64, 78%, 52%);
+    margin: 20px;
+    transition: 1s;  
+}
+.y:hover{
+    background-color: hsl(64, 78%, 52%) ;
+    color: white; 
+}
+.so{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color: hsl(350, 75%, 47%);
+    margin: 20px;
+    transition: 1s;  
+}
+.so:hover{
+    background-color: hsl(350, 75%, 47%) ;
+    color: white; 
+}
+.zaw{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color:  hsl(150, 100%, 50%);
+    margin: 20px;
+    transition: 1s; 
+}
+.zaw:hover{
+    background-color: hsl(150, 100%, 50%) ;
+    color: white; 
+}
+.aov{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color:   hsl(39, 100%, 50%);
+    margin: 20px;
+    transition: 1s; 
+}
+.aov:hover{
+    background-color: hsl(39, 100%, 50%) ;
+    color: white; 
+}
+.olm{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color:   hsl(314, 100%, 50%);
+    margin: 20px;
+    transition: 1s;
+}
+.olm:hover{
+    background-color: hsl(314, 100%, 50%) ;
+    color: white; 
+}
+.hav{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+    color:   hsl(214, 100%, 50%);
+    margin: 20px;
+    transition: 1s;
+}
+.hav:hover{
+    background-color: hsl(214, 100%, 50%) ;
+    color: white; 
+}
+
+
+
